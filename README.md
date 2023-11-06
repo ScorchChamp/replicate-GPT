@@ -30,7 +30,7 @@ Input | Output
 ![Input](/examples/example1.png) | ![Output](/examples/example1-replica.png)
 ![Input](/examples/example2.png) | ![Output](/examples/example2-replica.png)
 ![Input](/examples/example3.JPG) | ![Output](/examples/example3-replica.png)
-![Input](/examples/example4.JPG) | ![Output](/examples/example4-replica.png)
+![Input](/examples/example4.jpg) | ![Output](/examples/example4-replica.png)
 
 
 
