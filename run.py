@@ -34,7 +34,7 @@ payload = {
         {
             "role": "user",
             "content": [
-                {"type": "text", "text": "Make a highly detailed description of this image so someone else can replicate it."},
+                {"type": "text", "text": "Make a highly detailed description of this image so someone else can replicate it. Focus on the details and facial features"},
                 {
                     "type": "image_url",
                     "image_url": {
